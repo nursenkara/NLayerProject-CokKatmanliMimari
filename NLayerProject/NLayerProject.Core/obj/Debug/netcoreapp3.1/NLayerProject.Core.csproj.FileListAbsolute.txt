@@ -1,0 +1,10 @@
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.deps.json
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.Core\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.AssemblyInfo.cs
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.dll
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.Core\obj\Debug\netcoreapp3.1\NLayerProject.Core.pdb

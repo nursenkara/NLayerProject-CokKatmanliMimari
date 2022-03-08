@@ -19,3 +19,10 @@ C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLa
 C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.API\obj\Debug\netcoreapp3.1\NLayerProject.API.dll
 C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.API\obj\Debug\netcoreapp3.1\NLayerProject.API.pdb
 C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.API\obj\Debug\netcoreapp3.1\NLayerProject.API.genruntimeconfig.cache
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.API\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.API\bin\Debug\netcoreapp3.1\NLayerProject.Data.dll
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.API\bin\Debug\netcoreapp3.1\NLayerProject.Service.dll
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.API\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.API\bin\Debug\netcoreapp3.1\NLayerProject.Data.pdb
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.API\bin\Debug\netcoreapp3.1\NLayerProject.Service.pdb
+C:\Users\asus\Documents\GitHub\NLayerProject-CokKatmanliMimari\NLayerProject\NLayerProject.API\obj\Debug\netcoreapp3.1\NLayerProject.API.csproj.CopyComplete
